@@ -1,0 +1,12 @@
+﻿  SpaceInvaders.cpp
+c:\users\candice\source\repos\spaceinvaders\spaceinvaders\spaceinvaders.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\spaceinvaders\spaceinvaders\spaceinvaders.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\spaceinvaders\spaceinvaders\spaceinvaders.cpp(100): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\candice\source\repos\spaceinvaders\spaceinvaders\spaceinvaders.cpp(118): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\spaceinvaders\spaceinvaders\spaceinvaders.cpp(147): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\spaceinvaders\spaceinvaders\spaceinvaders.cpp(244): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\Users\Candice\source\repos\SpaceInvaders\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\Users\Candice\source\repos\SpaceInvaders\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\Users\Candice\source\repos\SpaceInvaders\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\Users\Candice\source\repos\SpaceInvaders\Debug\SOIL.pdb'; linking object as if no debug info
+  SpaceInvaders.vcxproj -> C:\Users\Candice\source\repos\SpaceInvaders\Debug\SpaceInvaders.exe
